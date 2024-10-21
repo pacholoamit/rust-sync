@@ -3280,11 +3280,11 @@ __metadata:
   linkType: hard
 
 "@tauri-apps/plugin-store@npm:~2":
-  version: 2.0.0
-  resolution: "@tauri-apps/plugin-store@npm:2.0.0"
+  version: 2.1.0
+  resolution: "@tauri-apps/plugin-store@npm:2.1.0"
   dependencies:
     "@tauri-apps/api": ^2.0.0
-  checksum: 3ab4a5369717b19a5a05e156c63ede09c10156d31a0aec11132f83d053ff4bf85dc9ab4736d95a9808c31a99433d394d4b76dd570854911ae957e811e2d88995
+  checksum: b0b643644b87ce625fecd09a016016b6f2a4ed8ae703c9df3165842f79e9d75da9fba05c9323fe11f78acc27e66ef378ef1644b550494072d3eebe3e5e2e1028
   languageName: node
   linkType: hard
 
