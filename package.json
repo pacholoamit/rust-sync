@@ -35,7 +35,7 @@
     "highcharts-react-official": "^3.2.1",
     "immer": "^10.1.1",
     "non.geist": "^1.0.4",
-    "posthog-js": "^1.167.0",
+    "posthog-js": "^1.174.2",
     "react": "^18.3.1",
     "react-arborist": "^3.4.0",
     "react-dom": "^18.3.1",
