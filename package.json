@@ -44,7 +44,7 @@
     "react-router-dom": "^6.27.0",
     "react-text-gradients": "^1.0.2",
     "styled-components": "^6.1.13",
-    "zustand": "^4.5.5"
+    "zustand": "^5.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.12.0",
