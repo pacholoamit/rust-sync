@@ -16,7 +16,7 @@
     "@ag-grid-community/core": "^32.2.2",
     "@emotion/react": "^11.13.3",
     "@mantine/core": "^6.0.22",
-    "@mantine/form": "^6.0.22",
+    "@mantine/form": "^7.14.2",
     "@mantine/hooks": "^6.0.22",
     "@mantine/notifications": "^6.0.22",
     "@tabler/icons-react": "^2.47.0",
